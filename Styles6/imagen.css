@@ -1,0 +1,6 @@
+body {
+    background-image: url("../imagen/tienda.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+}		

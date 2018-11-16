@@ -1,0 +1,61 @@
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #66ccff;
+}
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+.panel-primary {
+    border-color: #337ab7;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+      height: 350px;
+  }
+a {
+    color: black;
+    text-decoration: none;
+}
+h1 {
+   padding-left: 320px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: fantasy;
+    font-size: 750%;
+    color: #00004d;
+}
+h2{
+    padding-bottom: 20px;
+    font-family: fantasy;
+    padding-left: 200px;
+    margin-top: 200px;
+        font-size: 500%;
+            color: white;
+}
+table{
+  width: 109%;
+
+}
+th {
+  color: black;
+    padding-top: 50px;
+    text-align: left;
+}
+td{
+  color: black;
+}
+#Destacados{
+  /*background-color: grey;
+  padding: 1em;
+  box-shadow: 10px 10px 11px #666;
+    border-radius: 20px;*/ 
+
+}
